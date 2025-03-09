@@ -14,8 +14,8 @@
 ## How to run
 - Paste the `MONGO_CONNECTION_STRING` sent via mail to > `/server/.env`.
 - `cd client && npm install && cd ../server && npm install && cd ..`
-- `cd client && npm run dev`
-- Create new terminal and run `cd server && npm start`
+- `cd server && npm start` > `http://localhost:3000/`
+- Create new terminal and run `cd client && npm run dev`
 - Open `http://localhost:5173/` to start
 
 ## Overview
