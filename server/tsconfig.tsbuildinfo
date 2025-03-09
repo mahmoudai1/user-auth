@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/db.ts","./src/middleware/auth.ts","./src/middleware/errorhandler.ts","./src/middleware/ratelimit.ts","./src/models/user.ts","./src/routes/app.ts","./src/services/userservice.ts","./src/tests/auth.test.ts","./src/types/express/index.ts","./src/utils/response.ts"],"version":"5.8.2"}
