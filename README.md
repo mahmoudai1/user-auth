@@ -24,7 +24,7 @@
 - React.js with Node.js written in Typescript are used, with MongoDB cloud.
 - Custom Validations are used for the backend requests body (required, uniqueness, length)
 - Custom Middlewares developed > `JWT auth`, `ErrorHandling`, `RateLimiting`
-- Custom Utilities developed > `ResponseHandler`, `RoutesHandler`
+- Custom Utilities developed > `ResponseHandler`, `RoutesHandler`, `Button Debouncing`
 
 ## Design
 - Simple, modern, and light design.
