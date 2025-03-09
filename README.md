@@ -4,6 +4,7 @@
 - [Overview](#overview)
 - [Design](#design)
 - [APIs](#apis)
+- [Extra Features to Consider](#extra-features-to-consider)
 - [Demo Video](#demo)
 
 ## Project Structure
@@ -18,9 +19,23 @@
 - Open `http://localhost:5173/` to start
 
 ## Overview
-- User Auth (Login and Register)
+- User Auth (Login and Register).
+- React.js with Node.js written in Typescript are used, with MongoDB cloud.
+- Custom Middlewares developed > `JWT auth`, `ErrorHandling`, `RateLimiting`
+- Custom Utilities developed > `ResponseHandler`
 
 ## Design
 - Simple, modern, and light design.
 - Followed UI/UX best practices with different media queries.
 - TailwindCSS is used for styling.
+
+## APIs
+-
+
+## Extra Features to Consider
+- Unit tests
+- Remember me
+- Forget password
+- Email Confirmation
+
+## Demo Video
