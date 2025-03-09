@@ -23,7 +23,7 @@
 - Username and email are unique indexes.
 - React.js with Node.js written in Typescript are used, with MongoDB cloud.
 - Custom Middlewares developed > `JWT auth`, `ErrorHandling`, `RateLimiting`
-- Custom Utilities developed > `ResponseHandler`
+- Custom Utilities developed > `ResponseHandler`, `RoutesHandler`
 
 ## Design
 - Simple, modern, and light design.
@@ -36,7 +36,7 @@
 - `/api/v1/verify` - `GET`
 
 ## Extra Features to Consider
-- Unit tests
+- Unit tests using `jest`
 - Remember me
 - Forget password
 - Email Confirmation
