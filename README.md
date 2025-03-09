@@ -22,6 +22,7 @@
 - User Auth (Login and Register).
 - Username and email are unique indexes.
 - React.js with Node.js written in Typescript are used, with MongoDB cloud.
+- Custom Validations are used for the backend requests body (required, uniqueness, length)
 - Custom Middlewares developed > `JWT auth`, `ErrorHandling`, `RateLimiting`
 - Custom Utilities developed > `ResponseHandler`, `RoutesHandler`
 
@@ -41,4 +42,5 @@
 - Forget password
 - Email Confirmation
 
-## Demo Video
+## Demo
+https://github.com/user-attachments/assets/18fd3adf-03f8-4b36-94c8-774ddc5a0c60
