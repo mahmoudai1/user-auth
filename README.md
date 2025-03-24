@@ -12,7 +12,7 @@
 <img width="268" alt="Screenshot 2025-03-10 at 12 56 31 AM" src="https://github.com/user-attachments/assets/910e2632-b197-41e0-8420-4f40ec17a88f" />
 
 ## How to run
-- Paste the `MONGO_CONNECTION_STRING` sent via mail to > `/server/.env`.
+- Copy the `MONGO_CONNECTION_STRING` to > `/server/.env`.
 - `cd client && npm install && cd ../server && npm install && cd ..`
 - `cd server && npm start` > `http://localhost:3000/`
 - Create new terminal and run `cd client && npm run dev`
